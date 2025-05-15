@@ -1,32 +1,37 @@
 # Olympics
 Olympic Data Analysis and Medal Prediction
 
-Objective:
+## Objective:
+
 This report is to perform a comprehensive data analysis and machine learning-driven exploration of Olympic data, emphasizing medal predictions and athlete 
 performance.
+
 • Perform a thorough data analysis of Olympic data with an emphasis on 
 medal results and athlete performance.
+
 • Examine trends by country, athlete, and medal analysis to find patterns 
 and insights in the dataset.
+
 • Determine the best athletes and nations by looking at their past results 
 in Olympic competitions. 
+
 • Make use of machine learning techniques to forecast the kind of medals 
 that athletes will win. 
+
 • Include data in the predictive model such as height, weight, sex, country, 
 age, and participation in sports.
-This project aims to improve predictive capabilities for medal outcomes in 
-future Olympic events and provide actionable insights into athlete 
-performance by integrating data analysis and machine learning methodologies.
+
+This project aims to improve predictive capabilities for medal outcomes in future Olympic events and provide actionable insights into athlete performance by integrating data analysis and machine learning methodologies.
 
 
 **• Data Analysis :**
 
-Division of Analysis Synopsis: 
+### Division of Analysis Synopsis: 
 
-Four primary sections have been created from the beginning to efficiently 
-organize the analysis and cover different aspects of Olympic data: 
+Four primary sections have been created from the beginning to efficiently organize the analysis and cover different aspects of Olympic data: 
 
-Total Tally: 
+**Total Tally:**
+
 ➢ combining medal data to give a summary of medal 
 accomplishments in various categories.
 
