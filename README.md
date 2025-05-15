@@ -83,5 +83,5 @@ conclusions from the Olympic dataset is provided by these divisions.
 
 ### Olympics_medal_prediction: ML related prediction.
 
-### Prediction_user_input:** Through user input Try to predict the outcome.
+### Prediction_user_input: Through user input Try to predict the outcome.
 
