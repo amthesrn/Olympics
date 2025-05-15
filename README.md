@@ -24,9 +24,9 @@ age, and participation in sports.
 This project aims to improve predictive capabilities for medal outcomes in future Olympic events and provide actionable insights into athlete performance by integrating data analysis and machine learning methodologies.
 
 
-**• Data Analysis :**
+## • Data Analysis :**
 
-### Division of Analysis Synopsis: 
+**Division of Analysis Synopsis:**
 
 Four primary sections have been created from the beginning to efficiently organize the analysis and cover different aspects of Olympic data: 
 
@@ -79,9 +79,9 @@ The framework for carrying out in-depth analysis and drawing
 conclusions from the Olympic dataset is provided by these divisions.
 
 
-**Olympics_webapps:** Web view of Olympics Data Analysis.
+### Olympics_webapps: Web view of Olympics Data Analysis.
 
-**Olympics_medal_prediction:** ML related prediction.
+### Olympics_medal_prediction: ML related prediction.
 
-**Prediction_user_input:** Through user input Try to predict the outcome.
+### Prediction_user_input:** Through user input Try to predict the outcome.
 
